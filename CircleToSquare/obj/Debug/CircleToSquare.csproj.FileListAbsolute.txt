@@ -1,0 +1,7 @@
+D:\VS Repositories\repos\CircleToSquare\CircleToSquare\bin\Debug\CircleToSquare.exe.config
+D:\VS Repositories\repos\CircleToSquare\CircleToSquare\bin\Debug\CircleToSquare.exe
+D:\VS Repositories\repos\CircleToSquare\CircleToSquare\bin\Debug\CircleToSquare.pdb
+D:\VS Repositories\repos\CircleToSquare\CircleToSquare\obj\Debug\CircleToSquare.csprojAssemblyReference.cache
+D:\VS Repositories\repos\CircleToSquare\CircleToSquare\obj\Debug\CircleToSquare.csproj.CoreCompileInputs.cache
+D:\VS Repositories\repos\CircleToSquare\CircleToSquare\obj\Debug\CircleToSquare.exe
+D:\VS Repositories\repos\CircleToSquare\CircleToSquare\obj\Debug\CircleToSquare.pdb
